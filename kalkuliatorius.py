@@ -36,3 +36,7 @@ while True:
 
     elif meniu_pasirinkimas == "4":
         res = f"{sk1} / {sk2} = {sk1 / sk2}"
+
+    print(res)
+
+    input("\nEnter - tęsti")
